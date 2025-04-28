@@ -1,7 +1,7 @@
 # Emotion-Detection-on-Text-Using-Spelling-Checker
 
 ## Introduction
-This project aims to classify text into emotions such as positive, negative and neutral using machine learning and deep learning techniques.
+This project aims to classify text by using merged dataset of reddit, youtube and twitter comments into emotions such as positive, negative and neutral using machine learning and deep learning techniques.
 
 ## Dataset
 - Text samples labeled with corresponding emotions.
